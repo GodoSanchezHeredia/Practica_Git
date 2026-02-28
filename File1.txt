@@ -4,3 +4,5 @@ STMicroelectronics
 Texas Instruments
 Renesas
 Microchip
+nordic semiconductor
+ciprees
