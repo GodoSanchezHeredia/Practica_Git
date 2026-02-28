@@ -2,6 +2,6 @@ Tipos de equipos en mina:
 Acarreo
 Carguio
 Perforacion
-Auxiliares
+Scoop
 Explosivos
 volquetes con placa eyectora

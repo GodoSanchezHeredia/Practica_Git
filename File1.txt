@@ -1,7 +1,7 @@
 Empresas de Microcontroladores :
 NXP
 STMicroelectronics
-Texas Instruments
+Toradex -IMX8
 Renesas
 Microchip
 nordic semiconductor
